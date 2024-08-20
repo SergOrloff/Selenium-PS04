@@ -25,7 +25,7 @@ Wikipedia Navigator — это программа на Python, которая и
 
 1. Запустите программу:
    ```bash
-   python ваш_файл.py
+   python main_dz1.py
    ```
 
 2. Введите запрос для поиска на Википедии.
